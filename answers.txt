@@ -1,0 +1,7 @@
+1. An RDBMS is a Relational Database Management System, which is a software that allows you to create and alter databases. SQL is not the system, but the language with which you write these queries and alterations.
+
+2. A primary key allows you to note distinct pieces of data
+
+3. Foreign Key?
+
+4. A third table! (at least)
